@@ -7,7 +7,7 @@
 -화: \
 --데이터 전처리까지, 일반대화 천개 -> 이후 시간 남으면 더 많은 일반데이터에 가중치 더해서 (가져온 데이터 셔플? 그냥 하나에서 천개?) \
 --Mecab? Sentencepiece? OKT \
--수: 모델 제작 및 실행-BERT, koBERT&koElectra&? 앙상블? \
+-수: 모델 제작 및 실행-koBERT -> koBERT&koELECTRA&? 앙상블? \
 -목: 발표 준비 \
  \
 참고 자료: \
