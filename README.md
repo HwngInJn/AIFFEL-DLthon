@@ -18,3 +18,4 @@
 -감성 대화 말뭉치: https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=86 \
 -텍스트 윤리검증 데이터: https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=558 \
 -koBERT: https://github.com/SKTBrain/KoBERT \
+-koELECTRA: https://github.com/monologg/KoELECTRA/blob/master/README.md
