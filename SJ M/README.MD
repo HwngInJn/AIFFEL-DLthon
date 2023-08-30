@@ -1,4 +1,4 @@
-Process \\
+Process \
 
 KoBERT (kobert_finetune.ipynb) \
 -> \
